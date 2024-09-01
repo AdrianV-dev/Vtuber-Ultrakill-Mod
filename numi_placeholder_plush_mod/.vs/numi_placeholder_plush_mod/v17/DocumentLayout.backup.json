@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\numi_placeholder_plush_mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D75050C-B90C-C25E-6D47-17EB21D75B21}|Assembly-CSharp.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi_placeholder_plush_mod\\assets\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D75050C-B90C-C25E-6D47-17EB21D75B21}|Assembly-CSharp.csproj|solutionrelative:assets\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\numi_placeholder_plush_mod\\Assets\\Playlist.cs",
+              "RelativeDocumentMoniker": "Assets\\Playlist.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\numi_placeholder_plush_mod\\Assets\\Playlist.cs",
+              "RelativeToolTip": "Assets\\Playlist.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:31:39.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

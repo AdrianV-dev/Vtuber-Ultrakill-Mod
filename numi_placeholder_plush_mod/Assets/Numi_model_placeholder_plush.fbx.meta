@@ -22,6 +22,12 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Jacket_Material_Fix
+    second: {fileID: -876546973899608171, guid: fae3943238b724745bd92a698da927a9,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Numi_body
     second: {fileID: 2100000, guid: 4dcc2a0b28e49084b8b4209b1af68aa3, type: 2}
   - first:

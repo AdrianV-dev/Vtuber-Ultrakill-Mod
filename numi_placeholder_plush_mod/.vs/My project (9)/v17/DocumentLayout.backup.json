@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\numi_placeholder_plush_mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\NumiEnemy.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\numienemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\NumiEnemy.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\numi\\numi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\Numi.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\assets\\ukassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\Numi.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\Numi.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0759563-F0AE-4365-AC5B-924F63515600}|..\\Numi\\Numi.csproj|c:\\xboxgames\\mod\\vtuber-ultrakill-mod\\numi\\assets\\ukprefabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numi.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Numi\\Numi.cs",
+              "RelativeDocumentMoniker": "..\\Numi\\Numi\\Numi.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Numi\\Numi.cs",
+              "RelativeToolTip": "..\\Numi\\Numi\\Numi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UKPrefabs.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Assets\\UKPrefabs.cs",
+              "RelativeDocumentMoniker": "..\\Numi\\Assets\\UKPrefabs.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Assets\\UKPrefabs.cs",
+              "RelativeToolTip": "..\\Numi\\Assets\\UKPrefabs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:34:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UKAssets.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Assets\\UKAssets.cs",
+              "RelativeDocumentMoniker": "..\\Numi\\Assets\\UKAssets.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Assets\\UKAssets.cs",
+              "RelativeToolTip": "..\\Numi\\Assets\\UKAssets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:34:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Class2.cs",
+              "RelativeDocumentMoniker": "..\\Numi\\Class2.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Class2.cs",
+              "RelativeToolTip": "..\\Numi\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:31:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumiEnemy.csproj",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\NumiEnemy.csproj",
+              "RelativeDocumentMoniker": "..\\Numi\\NumiEnemy.csproj",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\NumiEnemy.csproj",
+              "RelativeToolTip": "..\\Numi\\NumiEnemy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T08:15:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Numi\\Class1.cs",
+              "ToolTip": "C:\\XboxGames\\Mod\\Vtuber-Ultrakill-Mod\\Numi\\Class1.cs",
+              "RelativeToolTip": "..\\Numi\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:02:40.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
